@@ -1,0 +1,10 @@
+借款人借款年龄	age
+过去两年内出现90天逾期或更坏的次数	NumberOfTimes90DaysLate
+家庭中不包括自身的家属人数（配偶，子女等）	NumberOfDependents
+月收入	MonthlyIncome
+贷款以及信用卡可用额度与总额度比例	RevolvingUtilizationOfUnsecuredLines
+每月偿还债务，赡养费，生活费用除以月总收入	DebtRatio
+过去两年内出现35-59天逾期但是没有发展得更坏的次数	NumberOfTime30-59DaysPastDueNotWorse
+开放式贷款和信贷数量	NumberOfOpenCreditLinesAndLoans
+抵押贷款和房地产贷款数量，包括房屋净值信贷额度	NumberRealEstateLoansOrLines
+过去两年内出现60-89天逾期但是没有发展得更坏的次数	NumberOfTime60-89DaysPastDueNotWorse
